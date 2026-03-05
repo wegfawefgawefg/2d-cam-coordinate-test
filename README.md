@@ -2,6 +2,8 @@
 
 Small Rust + raylib testbed for 2D camera coordinate math.
 
+![Screenshot](./image.png)
+
 ## What this was trying to do
 
 The goal was to validate **window/screen-to-world coordinate conversion** for a 2D camera setup, especially when rendering to a low-resolution render target and scaling that up to the window.
